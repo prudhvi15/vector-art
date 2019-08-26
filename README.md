@@ -16,7 +16,7 @@ Vector art is a computer-made image that is made up of points, lines, and curves
 
 ## Softwares I used
 
-1. Adobe Illustrator
+1. Adobe Illustrator 
 2. Adobe Photoshop
 
 Refer the below link to know other softwares which are used to do vector art.
