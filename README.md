@@ -24,5 +24,6 @@ I tried my best to do this art, ignore if its bad.
 
 ![Sam](sam1.jpg)
 ## References
-[https://www.qualitylogoproducts.com/promo-university/beginners-guide-to-vector-art.html](https://www.qualitylogoproducts.com/promo-university/beginners-guide-to-vector-art.html)
-[https://www.smashingmagazine.com/2008/12/20-vector-graphic-editors-reviewed/](https://www.smashingmagazine.com/2008/12/20-vector-graphic-editors-reviewed/)
+
+* [https://www.qualitylogoproducts.com/promo-university/beginners-guide-to-vector-art.html](https://www.qualitylogoproducts.com/promo-university/beginners-guide-to-vector-art.html)
+* [https://www.smashingmagazine.com/2008/12/20-vector-graphic-editors-reviewed/](https://www.smashingmagazine.com/2008/12/20-vector-graphic-editors-reviewed/)
