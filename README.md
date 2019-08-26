@@ -17,9 +17,9 @@ Refer the below link to know other softwares which are used to do vector art.
 I tried my best to do this art, ignore if its bad.
 
 ![Arjun Reddy](AR2.0.jpg)
-![]
-![]
-![]
+![Captain America](cap.jpg)
+![Robert](RD.jpg)
+![Sam](sam1.jpg)
 ## References
-1.[https://www.qualitylogoproducts.com/promo-university/beginners-guide-to-vector-art.html](https://www.qualitylogoproducts.com/promo-university/beginners-guide-to-vector-art.html)
-2.[https://www.smashingmagazine.com/2008/12/20-vector-graphic-editors-reviewed/](https://www.smashingmagazine.com/2008/12/20-vector-graphic-editors-reviewed/)
+[https://www.qualitylogoproducts.com/promo-university/beginners-guide-to-vector-art.html](https://www.qualitylogoproducts.com/promo-university/beginners-guide-to-vector-art.html)
+[https://www.smashingmagazine.com/2008/12/20-vector-graphic-editors-reviewed/](https://www.smashingmagazine.com/2008/12/20-vector-graphic-editors-reviewed/)
