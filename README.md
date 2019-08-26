@@ -21,5 +21,5 @@ I tried my best to do this art, ignore if its bad.
 ![]
 ![]
 ## References
-1.https://www.qualitylogoproducts.com/promo-university/beginners-guide-to-vector-art.html
-2.https://www.smashingmagazine.com/2008/12/20-vector-graphic-editors-reviewed/
+1.[https://www.qualitylogoproducts.com/promo-university/beginners-guide-to-vector-art.html](https://www.qualitylogoproducts.com/promo-university/beginners-guide-to-vector-art.html)
+2.[https://www.smashingmagazine.com/2008/12/20-vector-graphic-editors-reviewed/](https://www.smashingmagazine.com/2008/12/20-vector-graphic-editors-reviewed/)
